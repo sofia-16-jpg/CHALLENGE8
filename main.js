@@ -64,8 +64,4 @@ function mergeUnique(arr1, arr2) {
     return unique;
 }
 
-// Example usage
-const array1 = [1, 2, 3, 4];
-const array2 = [3, 4, 5, 6];
-const resultArray = mergeUnique(array1, array2);
-console.log(resultArray); // Output: [1, 2, 3, 4, 5, 6];
+
